@@ -12,6 +12,15 @@ A classic Snake game built using C++ and the SDL2 library as a final project for
 This project recreates the timeless Snake game, where players control a snake that grows longer by consuming food items while avoiding collisions with itself and screen borders. It runs offline in single-player mode, keeping a record of player history and the highest score.
 
 ---
+## 🖼️ Screenshots
+
+### Main Menu
+![Main Menu](images/Screenshot 2024-11-15 001405.png)
+
+### Gameplay
+![Gameplay](images/game-screenshot.png)
+
+---
 
 ## 🎮 Features
 
