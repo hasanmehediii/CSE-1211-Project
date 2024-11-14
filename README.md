@@ -46,4 +46,7 @@ This project recreates the timeless Snake game, where players control a snake th
 1. **Install SDL2 and Dependencies**: Ensure SDL2, SDL2_ttf, and SDL2_image are installed on your system.
 2. **Compile the Code**: Use a C++ compiler with SDL2 linked. For example:
    ```sh
-   g++ -o SnakeGame main.cpp -lSDL2 -lSDL2_ttf -lSDL2_image
+   g++ -o main main.cpp -lSDL2 -lSDL2_ttf -lSDL2_image
+3. **Run Code**: Same as a typical C++ code. For example:
+   ```sh
+   ./main   
