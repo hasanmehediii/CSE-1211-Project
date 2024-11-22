@@ -1,7 +1,7 @@
 # 🐍 Snake Game Project
 
 **Course**: CSE-1211 | **Institution**: University of Dhaka  
-**Developer**: Mehedi Hasan
+**Developer**: [Mehedi Hasan](github.com/mh-MeHeDii)
 
 A classic Snake game built using C++ and the SDL2 library as a final project for the second semester of the first year. This game includes features such as player history, name input, and best score tracking.
 
