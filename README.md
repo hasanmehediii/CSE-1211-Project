@@ -67,3 +67,7 @@ This project recreates the timeless Snake game, where players control a snake th
 
     ```bash
     ./main
+
+## 📧 Contact
+For any queries or suggestions, feel free to reach out:
+[Mehedi Hasan](mailto:mehedi-2022415897@cs.du.ac.bd)
