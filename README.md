@@ -41,19 +41,6 @@ This project recreates the timeless Snake game, where players control a snake th
 
 ---
 
-## 🚀 How to Run the Game
-
-1. **Install SDL2 and Dependencies**: Ensure SDL2, SDL2_ttf, and SDL2_image are installed on your system. You can download it from [SDL2](https://www.libsdl.org/) or if you are using Linux or Ubuntu as operationg system, you can type about installation of it in terminal. For example:
-   ```sh
-   sudo apt update
-   sudo apt-get install libsdl2-dev
-3. **Compile the Code**: Use a C++ compiler with SDL2 linked. For example:
-   ```sh
-   g++ -o main main.cpp -lSDL2 -lSDL2_ttf -lSDL2_image
-4. **Run Code**: Same as a typical C++ code. For example:
-   ```sh
-   ./main
-
 ## 🚀 Getting Started
 
 ### Prerequisites
