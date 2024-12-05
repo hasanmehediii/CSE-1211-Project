@@ -52,4 +52,31 @@ This project recreates the timeless Snake game, where players control a snake th
    g++ -o main main.cpp -lSDL2 -lSDL2_ttf -lSDL2_image
 4. **Run Code**: Same as a typical C++ code. For example:
    ```sh
-   ./main   
+   ./main
+
+## 🚀 Getting Started
+
+### Prerequisites
+- **C++ Compiler** (e.g., GCC or MSVC)
+- **SDL2 Library** installed (along with `SDL2_ttf` and `SDL2_image` if used). You can download it from [SDL2](https://www.libsdl.org/)
+
+### Running the Game
+1. **Clone the repository or download the source code.**
+   
+    ```bash
+    git clone https://github.com/hasan-mehedii/CSE-1211-Project
+    cd CSE-1211-Project
+2. **Ensure SDL2 is properly installed.**
+ 
+   ```bash
+    sudo apt update
+    sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev
+3. **Compile the project** using your C++ compiler. For example:
+
+   ```bash
+   g++ -o main main.cpp -lSDL2 -lSDL2_ttf -lSDL2_image
+
+ 4. **Run**
+
+    ```bash
+    ./main
