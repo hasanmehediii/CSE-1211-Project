@@ -26,8 +26,6 @@ This project recreates the timeless Snake game, where players control a snake th
 
 # 🖼️ Screenshots
 
-### Main Menu
-
 | ![Main Menu](images/Screenshot%202024-11-15%20001405.png) | ![Gameplay](images/Screenshot%202024-11-15%20001526.png) |
 |:-------------------:|:------------------:|
 | _Main Menu._ | _Gameplay._ |
