@@ -1,10 +1,18 @@
 # 🐍 Snake Game Project
 
+<p align="center">
+  <img src="snake.png" alt="Snake Logo" width="150" height="150" style="border-radius: 50%; border: 2px solid #ccc;" />
+  <br>
+  <strong>Snake – The Desert King</strong>
+</p>
+
+
+A classic Snake game built using C++ and the SDL2 library as a final project for the second semester of the first year. This game includes features such as player history, name input, and best score tracking.
+
+
 - **Course**: CSE-1211 (Fundamentals of Programming)
 - **Institution**: University of Dhaka  
 - **Developer**: [Mehedi Hasan](https://github.com/hasanmehediii)
-
-A classic Snake game built using C++ and the SDL2 library as a final project for the second semester of the first year. This game includes features such as player history, name input, and best score tracking.
 
 ---
 
